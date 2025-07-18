@@ -1,8 +1,6 @@
-#wersja z dodwaniem
-2+2
+#dodawanie od nowa
 
+3+3
 4+4
-
-#kolejne dodawanie
-
-sum(rnorm(50))
+5+5
+6+6
